@@ -1,3 +1,9 @@
 streamlit
 pandas
 joblib
+pycaret 
+numpy
+seaborn
+matplotlib.pyplot
+shap
+pycaret[analysis]
