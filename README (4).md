@@ -23,11 +23,11 @@ Tahapan Persiapan
 
 Setup environment:
 
-    ```
+    
      !pip install pycaret
      !pip install pycaret[analysis]
      !pip install numpy==1.24.4 pandas==2.1.4 matplotlib==3.7.5 seaborn==0.13.2
-    ```
+    
 
 ## Business Dashboard
 Dashboard yang telah dibuat memberikan visualisasi faktor apa yang menjadi penyebab seseorang dropout di Jaya Jaya Institut. Faktor penyebab ini ditemukan dengan menggunakan machine learning. 
