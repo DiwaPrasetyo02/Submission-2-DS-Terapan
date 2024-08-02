@@ -19,8 +19,10 @@ Permasalahan yang akan dihadapi oleh Jaya Jaya Insitut mencakup:
 
 ### Persiapan
 Tahapan Persiapan
-[Sumber Data]('https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv')
+[Sumber Data](https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv)
+
 Setup environment:
+
     ```
      !pip install pycaret
      !pip install pycaret[analysis]
