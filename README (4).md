@@ -18,6 +18,7 @@ Permasalahan yang akan dihadapi oleh Jaya Jaya Insitut mencakup:
 5. Memberikan rekomendasi tindakan berdasarkan hasil analisis.
 
 ### Persiapan
+
 Tahapan Persiapan
 [Sumber Data](https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv)
 
@@ -33,6 +34,8 @@ Setup environment:
 Dashboard yang telah dibuat memberikan visualisasi faktor apa yang menjadi penyebab seseorang dropout di Jaya Jaya Institut. Faktor penyebab ini ditemukan dengan menggunakan machine learning. 
 Pada halaman pertama secara umum, ditampilkan 6 faktor penyebab seorang mahasiswa dropout dan tidak dropout. Pada halaman kedua secara lebih spesifik ditampilkan mengenai faktor penyebab mengapa seorang mahasiswa dropout.
 Pada halaman kedua filter control yang digunakan adalah Pemegang Beasiswa dimana mahasiswa yang bukan menjadi pemegang beasiswa memiliki resiko dropout yang tinggi.
+
+[Link Dashboard](https://lookerstudio.google.com/reporting/43604ee8-2211-456d-9455-23008531ffb2)
 
 ## Conclusion
 Dropout mahasiswa di institusi ini dipengaruhi oleh berbagai faktor, termasuk jumlah mata kuliah yang diselesaikan, status beasiswa, usia saat pendaftaran, mode aplikasi, dan waktu kehadiran kelas. Dukungan finansial seperti beasiswa dan stabilitas tempat tinggal juga berperan penting dalam keberhasilan akademik mahasiswa. Untuk mengurangi tingkat dropout, institusi dapat fokus pada pemberian dukungan finansial, memastikan stabilitas tempat tinggal, dan memberikan bimbingan akademik khususnya untuk mahasiswa yang lebih tua dan yang menghadiri kelas di malam hari.
